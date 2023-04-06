@@ -1,6 +1,6 @@
 # Habit-Tracker-
 
-figma: https://www.figma.com/file/YI1VYRa4ywk5apRRnKMF3I/Habit-Tracker?node-id=0%3A1&t=D0QI70XZpfHJnCKf-1
+figma:https://www.figma.com/proto/YI1VYRa4ywk5apRRnKMF3I/Habit-Tracker?node-id=108-97&scaling=scale-down&page-id=0%3A1&starting-point-node-id=104%3A112&show-proto-sidebar=1
 
  habit tracker prototype app is a powerful tool for anyone looking to establish and maintain positive habits in their daily routine.
  
